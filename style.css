@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.card-all{
+    background-color: #f65e26;
+    height: 100vh;
+padding-top: 10px;
+}
+.card-body{
+    /* height: 300px; */
+    width: 240px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 10px 10px; 
+    
+}
+.card-heading h2{
+    text-align: center;
+    color: #f65e26;
+    padding: 10px 10px;
+    
+}
+.card-para p{
+    padding: 5px 2px ;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 6px;
+}
+.bb{
+    color: #f65e26;
+    font-size: 25px;
+    text-align: center;
+    margin: 10px 10px;
+}
+.card-button button{
+    margin-left: 40px;
+    padding: 12px 50px;
+    margin-bottom: 10px ;
+    margin-top: 12px;
+     border: none; 
+    border-radius: 20px;
+    background-color: #f65e26;
+    color: white;
+    cursor: pointer;
+    
+}
+button:hover{
+    border: 1px solid orangered;
+    border-radius: 20px;
+    color: orangered;
+    background-color: white;
+}
+.pp{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+.www{
+    text-align: center;
+    padding: 10px 20px;
+    margin: 10px 6px;
+}
+.cc li{
+    padding: 3px;
+    margin: 13px 5px;
+    list-style: none;
+}
+.mmm{
+     padding: 4px; 
+    margin: 10px 6px;
+    /* margin-bottom: 5px; */
+}
+.checkbox{
+    margin-bottom: 9px;
+    padding: 5px;
+
+    
+    
+}
+.ssss{
+    text-align: center;
+
+}
